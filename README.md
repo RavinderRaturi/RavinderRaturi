@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ravinder 👋
 
-<!--
-**RavinderRaturi/RavinderRaturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Backend engineer working with Azure, AI systems, and high-performance .NET services.  
+Experienced with Azure Foundry style architectures, OpenAI, Ollama, RAG pipelines, and secure data systems like Skyflow.  
+Primary focus areas include C#, ASP.NET Core, .NET Framework, .NET Core, distributed systems, and AI-driven automation.
 
-Here are some ideas to get you started:
+📎 LinkedIn: https://www.linkedin.com/in/ravinderraturi/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Icons (Supported)
+![Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,git,linux,docker,kubernetes,redis,postgres)
+
+### Additional Skills  
+<img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-1A1A1A?style=flat" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-0052CC?style=flat" />
+<img src="https://img.shields.io/badge/Skyflow-6C2DC7?style=flat" />
+<img src="https://img.shields.io/badge/Azure_Foundry_Architecture-0BA5F2?style=flat" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat" />
+<img src="https://img.shields.io/badge/.NET_Framework-68217A?style=flat" />
+<img src="https://img.shields.io/badge/.NET_Core-5C2D91?style=flat" />
+
+## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=RavinderRaturi&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinderRaturi&layout=compact&langs_count=10)
+
+## Visitor Count
+![Profile Views](https://komarev.com/ghpvc/?username=RavinderRaturi&color=blue)
