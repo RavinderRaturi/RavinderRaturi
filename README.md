@@ -22,10 +22,8 @@ Primary focus areas include C#, ASP.NET Core, .NET Framework, .NET Core, distrib
 <img src="https://img.shields.io/badge/.NET_Framework-68217A?style=flat" />
 <img src="https://img.shields.io/badge/.NET_Core-5C2D91?style=flat" />
 
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=RavinderRaturi&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github)
+ 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinderRaturi&layout=compact&langs_count=10)
 
 ## Visitor Count
 ![Profile Views](https://komarev.com/ghpvc/?username=RavinderRaturi&color=blue)
