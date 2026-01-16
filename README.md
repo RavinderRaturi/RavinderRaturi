@@ -9,7 +9,7 @@ Primary focus areas include C#, ASP.NET Core, .NET Framework, .NET Core, distrib
 
 ## Tech Stack
 
-### Icons (Supported)
+### Skills
 ![Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,git,linux,docker,kubernetes,redis,postgres)
 
 ### Additional Skills  
