@@ -13,8 +13,7 @@ Primary focus areas include C#, ASP.NET Core, .NET Framework, .NET Core, distrib
 ![Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,git,linux,docker,kubernetes,redis,postgres)
 
 ### Additional Skills  
-<img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-1A1A1A?style=flat" />
+<img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-1A1A1A?style=flat" />
 <img src="https://img.shields.io/badge/RAG_Pipelines-0052CC?style=flat" />
 <img src="https://img.shields.io/badge/Skyflow-6C2DC7?style=flat" />
 <img src="https://img.shields.io/badge/Azure_Foundry_Architecture-0BA5F2?style=flat" />
