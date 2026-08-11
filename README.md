@@ -1,6 +1,6 @@
 # Hi, I'm Ravinder 👋
 
-**Solution Architect | .NET Core | Azure Modernization**
+**Solution Architect | .NET Core | Modernization**
 
 .NET architect focused on backend architecture, cloud-native systems, and .NET modernization — from monolith and modular monolith platforms to microservices and multi-tenant SaaS.  
 Comfortable applying Domain-Driven Design, Clean Architecture, and Onion Architecture to shape service boundaries, domain models, and long-term maintainability.  
